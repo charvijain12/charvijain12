@@ -48,7 +48,6 @@ I have a great passion for AI, software development and modern technologies. I a
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/-charvi-jain-/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/charvijain._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </a>
 </p>
 
