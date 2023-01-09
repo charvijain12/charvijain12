@@ -39,9 +39,6 @@ I have a great passion for AI, software development and modern technologies. I a
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-<a href="https://github.com/charvijain12/github-readme-activity-graph"><img alt="Charvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=charvijain12&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
 
 
 
