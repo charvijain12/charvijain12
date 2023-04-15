@@ -14,7 +14,7 @@
 
 Looking for a team or an organization where I can learn and develop my skills...! 
 
-I have a great passion for AI, software development and modern technologies. I am a hardworking, creative and an adaptable person.
+My passion for AI has led me to explore the vast possibilities and applications of this field, and I am excited about the opportunities that lie ahead. I look forward to connecting with like-minded individuals and collaborating on projects that leverage the power of AI to create meaningful impact.
  
 
 
