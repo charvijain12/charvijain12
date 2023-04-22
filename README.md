@@ -1,4 +1,4 @@
-<h2 align="center"><img src="' width="400px"></h2>
+
 <h1 align="center">Hi, I'm Charvi</h1>
 <h3 align="center">I'm a beginner programmer</h3>
 
