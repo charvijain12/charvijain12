@@ -1,4 +1,4 @@
-## 🙋‍♂️ About Me
+## 🙋‍♀️ About Me
 
 - 👀 I’m interested in AI, Machine Learning and Deep Learning..!
 - 🌱 I’m currently learning 
