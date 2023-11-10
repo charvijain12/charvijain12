@@ -67,12 +67,14 @@ My passion for AI has led me to explore the vast possibilities and applications 
 <p align="left">
   <a href="https://www.linkedin.com/in/-charvi-jain-/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
-
+<p align="left">
+  <a href="https://www.instagram.com/charvijain._/"><img src="https://img.icons8.com/fluent/48/000000/instagram.png"/></a>
+</p>
 
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/charvijain12/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=charvijain12" alt="Profile Views Counter">
 </a>
 <a href="https://github.com/charvijain12?tab=followers">
@@ -80,8 +82,6 @@ My passion for AI has led me to explore the vast possibilities and applications 
 </a>
 
 
-
-<div align="center">
-  <img  src="resources/img/github-contribution-grid-snake.svg"
-    alt="charvijain12" />
+<div style="text-align: center;">
+  <img src="resources/img/github-contribution-grid-snake.svg" alt="charvijain12" />
 </div>
