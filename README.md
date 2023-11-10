@@ -68,7 +68,7 @@ My passion for AI has led me to explore the vast possibilities and applications 
   <a href="https://www.linkedin.com/in/-charvi-jain-/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 <p align="left">
-  <a href="https://www.instagram.com/charvijain._/"><img src="https://img.icons8.com/fluent/48/000000/Instagram.png"/></a>
+  <a href="https://www.instagram.com/charvijain._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 
@@ -80,5 +80,3 @@ My passion for AI has led me to explore the vast possibilities and applications 
 <a href="https://github.com/charvijain12?tab=followers">
     <img src="https://img.shields.io/github/followers/charvijain12?label=Followers&style=social" alt="GitHub Followers Badge">
 </a>
-
-
