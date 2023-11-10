@@ -62,7 +62,7 @@ My passion for AI has led me to explore the vast possibilities and applications 
 
 
 
-## Connect with me:
+## 🔗 Connect with me 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/-charvi-jain-/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
