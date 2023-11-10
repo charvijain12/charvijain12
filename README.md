@@ -48,7 +48,11 @@ My passion for AI has led me to explore the vast possibilities and applications 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" height=20>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/charvijain12/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Charvi Jain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=charvijain12&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
 
 
 ## 📊 My Github Stats
