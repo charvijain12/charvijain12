@@ -69,7 +69,7 @@ My passion for AI has led me to explore the vast possibilities and applications 
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=charvijain12&margin-w=12&margin-h=8&theme=calm&bg_color=000000)
+![](https://github-profile-trophy.vercel.app/?username=charvijain12&margin-w=12&margin-h=8&theme=onedark)
 
 
 ## 🔗 Connect with me 
