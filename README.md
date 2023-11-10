@@ -80,14 +80,6 @@ My passion for AI has led me to explore the vast possibilities and applications 
 </a>
 
 
-## GitHub Stats
-<div align="center">
-  <h2>GitHub stats</h2> 
-  <img src="https://github-readme-stats.vercel.app/api?username=charvijain12&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
-    alt="https://github.com/charvijain12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charvijain12&theme=material-palenight" alt="https://github.com/charvijain12" />
-</div>
-<hr>
 
 <div align="center">
   <img  src="resources/img/github-contribution-grid-snake.svg"
