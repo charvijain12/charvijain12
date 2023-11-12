@@ -1,5 +1,6 @@
-## 🙋‍♀️ About Me
 ![linkedin](https://github.com/charvijain12/charvijain12/assets/97164074/39cf9f26-2981-4970-9554-daab2733e988)
+
+## 🙋‍♀️ About Me
 
 - 👀 I’m interested in AI, Machine Learning..!
 - 🌱 I’m currently learning Deep Learning
