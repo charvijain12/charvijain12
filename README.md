@@ -46,7 +46,6 @@ My passion for AI has led me to explore the vast possibilities and applications 
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-3DD6D0?style=plastic&logo=Cisco&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=Express&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white" height=20>
