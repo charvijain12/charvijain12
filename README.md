@@ -4,10 +4,11 @@
 
 ## 🙋‍♀️ About Me
 
-- 👀 I’m interested in AI, Machine Learning..!
-- 🌱 I’m currently learning IoT, Cloud Computing
-- 🤝 I’m looking to collaborate on AI/ML projects...
-- 📫 How to reach me - **charvijain2003@gmail.com**
+- 👀 AI and ML enthusiast!
+- 🌱 Exploring IoT, Cloud Computing.
+- 🤝 Open to AI/ML collabs!
+- 📫 Drop a note:**charvijain2003@gmail.com**
+- 🚀 Let's innovate together!
  
 
 Looking for a team or an organization where I can learn and develop my skills...! 
