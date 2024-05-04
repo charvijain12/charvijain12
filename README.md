@@ -7,7 +7,7 @@
 - 👀 AI and ML enthusiast!
 - 🌱 Exploring IoT, Cloud Computing.
 - 🤝 Open to AI/ML collabs!
-- 📫 Drop a note:**charvijain2003@gmail.com**
+- 📫 Drop a note: **charvijain2003@gmail.com**
 - 🚀 Let's innovate together!
  
 
