@@ -1,4 +1,5 @@
-![Yellow and Green Illustration Personal LinkedIn Banner](https://github.com/charvijain12/charvijain12/assets/97164074/ba66f2e0-f968-4ba6-8df3-1512792969d4)
+![LinkedIn  Cover](https://github.com/charvijain12/charvijain12/assets/97164074/704de452-1162-4571-a0ed-406c67a40f51)
+
 
 
 ## 🙋‍♀️ About Me
