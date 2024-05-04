@@ -5,7 +5,7 @@
 ## 🙋‍♀️ About Me
 
 - 👀 I’m interested in AI, Machine Learning..!
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning IoT, Cloud Computing
 - 🤝 I’m looking to collaborate on AI/ML projects...
 - 📫 How to reach me - **charvijain2003@gmail.com**
  
