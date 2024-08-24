@@ -43,9 +43,9 @@ My passion for AI has led me to explore the vast possibilities and applications 
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=plastic&logo=scikit-learn&color=525252" height=20>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&color=000000" height=20>
   <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&color=111111" height=20>
-<!--   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20> -->
-<!--   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=#276DC3" height=20> -->
-<!--   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white" height=20> -->
+  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20> 
+  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=#276DC3" height=20> 
+ <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-3DD6D0?style=plastic&logo=Cisco&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=Express&logoColor=white" height=20>
