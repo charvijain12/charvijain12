@@ -9,6 +9,7 @@
 - 🤝 Open to AI/ML collabs!
 - 📫 Drop a note: **charvijain2003@gmail.com**
 - 🚀 Let's innovate together!
+- 📄Find my Resume here: [Resume](https://drive.google.com/file/d/1vIVuJaGq4MVBRR5AomiTG8Gzv7_oeSXg/view?usp=sharing)
  
 
 Looking for a team or an organization where I can learn and develop my skills...! 
