@@ -93,7 +93,8 @@ My passion for AI has led me to explore the vast possibilities and applications 
 
 <a href="https://github.com/charvijain12/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=charvijain12" alt="Profile Views Counter">
-</a>
+<a href="https://github.com/charvijain12">
+    <img src="https://img.shields.io/badge/hireable-yes-brightgreen?style=flat-square" alt="Hireable Badge">
 <a href="https://github.com/charvijain12?tab=followers">
     <img src="https://img.shields.io/github/followers/charvijain12?label=Followers&style=social" alt="GitHub Followers Badge">
 </a>
