@@ -2,19 +2,17 @@
 
 
 
-## 🙋‍♀️ About Me
+## 🙋‍♀️ About Me  
 
-- 👀 AI and ML enthusiast!
-- 🌱 Exploring IoT, Cloud Tech
-- 🤝 Open to AI/ML collabs!
-- 📫 Drop a note: **charvijain2003@gmail.com**
-- 🚀 Let's innovate together!
- 
+- 💻 Associate Software Engineer at **EY GDS**  
+- 👀 Passionate about Artificial Intelligence & Machine Learning  
+- 🌱 Continuously learning and exploring new technologies  
+- 🤝 Open to collaborations in AI/ML and software development  
+- 📫 Reach me at: **charvijain2003@gmail.com**  
+- 🚀 Striving to build impactful and innovative solutions  
 
-Looking for a team or an organization where I can learn and develop my skills...! 
+With a strong interest in AI/ML, I enjoy experimenting with emerging technologies and applying them to solve real-world challenges.
 
-My passion for AI has led me to explore the vast possibilities and applications of this field, and I am excited about the opportunities that lie ahead. I look forward to connecting with like-minded individuals and collaborating on projects that leverage the power of AI to create meaningful impact.
- 
 
 
 ## 🚀 Languages and Tools:
