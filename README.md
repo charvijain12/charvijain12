@@ -1,4 +1,5 @@
-![LinkedIn  Cover](https://github.com/charvijain12/charvijain12/assets/97164074/704de452-1162-4571-a0ed-406c67a40f51)
+![LinkedIn Banner](https://github.com/user-attachments/assets/3bb9bcd9-1ae9-42a8-8cf7-2c3cb4da9bcc)
+
 
 
 
