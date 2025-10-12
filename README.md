@@ -77,6 +77,7 @@ With a strong interest in AI/ML, I enjoy experimenting with emerging technologie
 
 <div style="text-align: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=charvijain12&margin-w=8&margin-h=4&theme=dracula" alt="GitHub Trophies">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=charvijain12)](https://github.com/charvijain12/github-profile-trophy)
 </div>
 
 
