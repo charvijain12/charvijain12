@@ -80,10 +80,6 @@ With a strong interest in AI/ML, I enjoy experimenting with emerging technologie
   
 </div>
 
-## 🐍 Watch My Contributions Come Alive
-
-![snake gif](https://github.com/charvijain12/charvijain12/blob/output/snake.svg)
-
 ## 🔗 Connect with me 
 
 <p align="left">
