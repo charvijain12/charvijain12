@@ -2,7 +2,6 @@
 
 
 
-
 ## 🙋‍♀️ About Me  
 
 - 💻 Associate Software Engineer at EY GDS
