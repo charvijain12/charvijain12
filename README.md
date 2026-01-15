@@ -5,12 +5,12 @@
 
 ## 🙋‍♀️ About Me  
 
-- 💻 Associate Software Engineer at **EY GDS**  
-- 👀 Passionate about Artificial Intelligence & Machine Learning  
-- 🌱 Continuously learning and exploring new technologies  
-- 🤝 Open to collaborations in AI/ML and software development  
-- 📫 Reach me at: **charvijain2003@gmail.com**  
-- 🚀 Striving to build impactful and innovative solutions  
+- 💻 Associate Software Engineer at EY GDS
+- 👀 Working at the intersection of AI, GenAI & software engineering
+- ⚙️ LLM-powered apps, RAG architectures, and scalable ML pipelines
+- 🤝 Open to meaningful collaborations
+- 📫 charvijain2003@gmail.com
+- 🚀 Focused on production-grade AI
 
 With a strong interest in AI/ML, I enjoy experimenting with emerging technologies and applying them to solve real-world challenges.
 
