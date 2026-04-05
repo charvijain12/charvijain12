@@ -53,7 +53,7 @@ With a strong interest in AI/ML, I enjoy experimenting with emerging technologie
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" height=20>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/charvijain12/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Charvi Jain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=charvijain12&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
@@ -77,7 +77,7 @@ With a strong interest in AI/ML, I enjoy experimenting with emerging technologie
 <div style="text-align: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=charvijain12&margin-w=8&margin-h=4&theme=dracula" alt="GitHub Trophies">
   
-</div>
+</div> -->
 
 ## 🔗 Connect with me 
 
