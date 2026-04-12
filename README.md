@@ -4,7 +4,7 @@
 
 ## 🙋‍♀️ About Me  
 
-- 💻 Associate Software Engineer at EY GDS
+- 💻 Decision Analytics Associate @ ZS
 - 👀 Working at the intersection of AI, GenAI & software engineering
 - ⚙️ LLM-powered apps, RAG architectures, and scalable ML pipelines
 - 🤝 Open to meaningful collaborations
